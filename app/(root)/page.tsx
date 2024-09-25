@@ -54,4 +54,4 @@ const Home = async ({ searchParams: { id, page } }: SearchParamProps) => {
   )
 }
 
-export default Hom 
+export default Home
